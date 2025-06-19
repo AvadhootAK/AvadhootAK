@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Pursuing Undergraduate Degree in Electronics & Telecommunication Engineering <br>🎯 Data Analyst <br>💫 Area of Interests: Data Science, Machine Learning, Artifical Intelligence, Web Development<br>
+🎓 Undergraduate Degree in Electronics & Telecommunication Engineering <br>🎯 Data Analyst <br>💫 Area of Interests: Data Science, Machine Learning, Artifical Intelligence, Web Development<br>
 
 
 ## 🌐 Socials:
